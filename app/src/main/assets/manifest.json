@@ -1,0 +1,17 @@
+{
+  "name": "أبطال الأكشن - Hero Evolution Runner",
+  "short_name": "Hero Runner",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#05060a",
+  "theme_color": "#05060a",
+  "orientation": "any",
+  "icons": [
+    {
+      "src": "hero1.jpg",
+      "sizes": "192x192 256x256",
+      "type": "image/jpeg",
+      "purpose": "any maskable"
+    }
+  ]
+}

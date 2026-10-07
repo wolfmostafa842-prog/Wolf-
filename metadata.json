@@ -1,0 +1,6 @@
+{
+  "name": "Hero Evolution Runner",
+  "description": "An offline 2D endless runner game where players evolve across 3 superhero stages with custom abilities and retro synth audio.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
